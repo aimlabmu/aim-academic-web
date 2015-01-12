@@ -1,8 +1,8 @@
-# Quick summary
+#Quick summary
 This is repository for __AIM LAB website__ used to store and control version
 
-* Version
-1.0
+#Version
+__1.0__
 
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
