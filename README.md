@@ -1,27 +1,17 @@
-#Quick summary
-This is repository for __AIM LAB website__ used to store and control version
+## Quick summary
+* This is repository for __AIM LAB website__ used to store and control version
 
-#Version
-__1.0__
+## Version
+* __1.0__
 
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## How do I get set up?
 
-### How do I get set up? ###
+* No set up require, just clone to wherever I want to edit
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Contribution guidelines
 
-### Contribution guidelines ###
+* Not available publicly
 
-* Writing tests
-* Code review
-* Other guidelines
+## Reference
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* [Markdown Reference](https://bitbucket.org/tutorials/markdowndemo)
