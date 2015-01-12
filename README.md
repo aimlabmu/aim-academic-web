@@ -1,5 +1,5 @@
 ## Quick summary
-* This is repository for __AIM LAB website__ used to store and control version
+* This is repository for [__AIM LAB website__](http://www.eg.mahidol.ac.th/dept/egbe/webaim/index.html) used to store and control version
 
 ## Version
 * __1.0__
