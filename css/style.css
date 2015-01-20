@@ -598,11 +598,15 @@ a.read {
 	margin: 0em 0em 2em 0em;
 	padding: 0em 0em 2em 0em;
 }
-.product-right {
-
+.product-right h5 {
+	text-align: center;
 }
 .product-right1 {
 	margin: 3em 0em;
+}
+.pro img {
+	display: block;
+	margin: 0 auto;
 }
 .products p{
 	font-size:1.1em;
@@ -669,6 +673,11 @@ a.more {
 	background: #5094F2;
 }
 /*-- products --*/
+
+
+
+
+/*--start responsive--*/
 /*--responsive design--*/
 @media (max-width:1024px){
 .products h3 {
@@ -693,12 +702,15 @@ a.more {
 .head-nav ul li{
 	display:block;
 	float:none;
+	margin: 1px 0;
+
 }
 .head-nav ul li a{
 	border-right:none;
 	border-bottom:none;
 	background:#5094F2;
 	color: #ffffff;
+	border: 1px solid rgb(250, 250, 250);
 }
 .head-nav ul{
 	position: absolute;
@@ -719,7 +731,7 @@ a.more {
 	right:22px;
 }	
 .head-nav span.menu:before{
-	content:url(../images/menu.png);
+	content:url(../images/archive/menu.png);
 	color:#FFF;
 	font-size:1.3em;
 	text-transform:uppercase;
@@ -736,7 +748,7 @@ a.more {
 	background:none;
 }
 .head-nav ul li a:hover, .head-nav ul li.active a {
-	border-bottom:none;
+	border: 1px solid rgb(250, 250, 250);
 	color:#000000;
 }
 .info1 img {
